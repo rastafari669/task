@@ -15,7 +15,7 @@ DB_USERNAME=root
 
 DB_PASSWORD=root
 
- Open a new terminal and navigate to laravelapi folder and follow the instructions:
+Open the terminal and navigate to laravelapi folder and follow the instructions:
 
 Run composer install or php composer.phar install
 
@@ -29,7 +29,7 @@ The laravel server will start http://127.0.0.1:8000.
 
 Make sure that the Mysql is properly activated as the data will be saved in a Mysql DB.
 
-Open the terminal and navigate to reactfundapp folder and run npm i. Once the packages are installed run npm start.
+Open a new terminal and navigate to reactfundapp folder and run npm i. Once the packages are installed run npm start.
 
 The following project is a task management app. One can add new tasks, update, filter and sort the columns by clicking on the column title.
 
